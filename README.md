@@ -29,3 +29,8 @@ Missing Features: Because these builds are compiled from Chromium, the open-sour
 No Automatic Updates: Since this app is not installed from the Google Play Store, you will need to manually check for and install new versions.
 
 Potential for Bugs: These are experimental builds that have not undergone extensive testing. They can be buggy, so we don’t recommend relying on them for any critical tasks.
+
+
+info gathered from Android Authority
+https://www.androidauthority.com/try-new-chrome-for-android-with-extensions-3569268/
+
